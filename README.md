@@ -41,8 +41,8 @@ Built as a practice project to understand loops, the `random` module, and basic 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Divyanshu11007/Number-Guessing-Game---Word-Counter.git
-   cd Number-Guessing-Game---Word-Counter
+    git clone https://github.com/Divyanshu11007/Number-Guessing-Game-Word-Counter.git
+    cd Number-Guessing-Game-Word-Counter
    ```
 
 2. Run either program:
